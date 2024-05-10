@@ -1,0 +1,1 @@
+#define SI(P,R,T) ((P*R*T)/100) 

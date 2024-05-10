@@ -1,0 +1,2 @@
+5.txt - Very long file and has been deleted for saving the memory size (check when need to use again is the pointer is deleated or not)
+6.txt - Very long file and has been deleted for saving the memory size (check when need to use again is the pointer is deleated or not)
