@@ -48,8 +48,7 @@ From your terminal or command prompt:
 1. Clone the repository (if you haven’t already):
    ```bash
    git clone https://github.com/Abhishek-Maurya-D/C-Programming.git
-````
-
+   ```
 2. Navigate to the folder with your `.c` file:
 
    ```bash
@@ -96,3 +95,4 @@ This repository has **no formal license file yet**, but by using it you agree th
 If you have questions or suggestions, feel free to reach out on GitHub.
 
 Happy coding! 🚀
+
